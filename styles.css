@@ -1,1 +1,29 @@
 /* your code */
+body{
+	margin:0;
+}
+
+.name{
+	width:200px;
+	height:30px;
+}
+.data{
+	width:100px;
+}
+/* th,tr,td{
+	margin:0;
+} */
+/* #one ,#three{
+	background-color : lightblue;
+}
+.hd{
+	background-color : blue;
+	color:white;
+}
+#two,#forth{
+	background-color : lightgreen;
+} */
+table{
+	border-radius: 10px;
+	background-color : lightblue;
+}
